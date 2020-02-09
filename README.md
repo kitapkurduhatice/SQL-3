@@ -8,3 +8,5 @@ Aşağıdaki listeleri hazırlayalım:
 3. Location, Max Maaş, Avg Maaş
 
 4. Department, Job Title ve Avg Maaş
+
+sql kodlarını yazınız.
